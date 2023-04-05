@@ -1,4 +1,4 @@
-.movie {
+.product {
   margin: 1rem;
   padding: 1rem;
   background-color: #230052;
@@ -8,13 +8,21 @@
   color: white;
 }
 
-.movie h2 {
+.product h2 {
   font-size: 2rem;
   color: #f7e702;
 }
 
-.movie h3 {
+.product h3 {
   color: #eccf77;
   margin: 0;
   font-size: 1rem;
+}
+
+.delete{
+
+  height:2rem;
+  width:10rem;
+  background-color: red;
+
 }
